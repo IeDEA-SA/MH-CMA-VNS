@@ -20,7 +20,7 @@
 		global data "C:/Data"
 		
 	* ADO 
-		sysdir set PERSONAL "C:/Users/haas/Dropbox/Do/ado/personal"
+		sysdir set PERSONAL "C:/Repositories/MH-CMA-VNS/code/v2.2/90_ADO"
 	
 * Generate project folders 
 		
